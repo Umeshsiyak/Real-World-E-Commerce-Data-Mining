@@ -93,7 +93,3 @@ Python (Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Prophet)
 Jupyter Notebook
 
 GitHub for version control
-
-📎 References
-
-Kaggle Olist Dataset, Hyndman & Athanasopoulos (Forecasting Principles), Prophet documentation, and supporting statistical modeling literature.
