@@ -33,6 +33,7 @@ Geolocation
 
 Over 100k orders (2016–2018) were merged and engineered into analysis-ready datasets.
 
+
 **Project Components:**
 **1️. Delivery Performance Analysis**
 
@@ -75,6 +76,7 @@ Prophet
 Weekly seasonality and late-2017 demand spikes observed.
 
 Seasonal naive unexpectedly outperformed advanced models on MAPE and RMSE.
+
 
 **Key Takeaways:**
 
