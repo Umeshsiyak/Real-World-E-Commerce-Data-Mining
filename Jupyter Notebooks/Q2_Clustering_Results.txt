@@ -1,0 +1,140 @@
+
+-------------------- CLUSTER 0 --------------------
+Number of customers: 24337 (25.51% of total)
+Average total spend: $92.25
+Average order count: 1.02
+Average recency (days): 423.31
+Average order value: $90.63
+Average category diversity: 1.01
+Repeat customers: 2.1%
+Category explorers: 1.1%
+
+Top 5 states:
+customer_state
+SP    9801
+RJ    3304
+MG    2903
+RS    1479
+PR    1257
+Name: count, dtype: int64
+
+Top 5 product categories:
+top_category
+bed_bath_table     2515
+sports_leisure     2086
+health_beauty      1902
+furniture_decor    1729
+housewares         1556
+Name: count, dtype: int64
+
+-------------------- CLUSTER 1 --------------------
+Number of customers: 19453 (20.39% of total)
+Average total spend: $186.69
+Average order count: 1.05
+Average recency (days): 165.94
+Average order value: $180.41
+Average category diversity: 1.04
+Repeat customers: 4.6%
+Category explorers: 3.4%
+
+Top 5 states:
+customer_state
+SP    7544
+RJ    2709
+MG    2357
+RS    1014
+PR     949
+Name: count, dtype: int64
+
+Top 5 product categories:
+top_category
+watches_gifts            1901
+bed_bath_table           1743
+sports_leisure           1586
+computers_accessories    1542
+health_beauty            1533
+Name: count, dtype: int64
+
+-------------------- CLUSTER 2 --------------------
+Number of customers: 7238 (7.59% of total)
+Average total spend: $590.33
+Average order count: 1.06
+Average recency (days): 423.00
+Average order value: $570.61
+Average category diversity: 1.05
+Repeat customers: 5.0%
+Category explorers: 4.9%
+
+Top 5 states:
+customer_state
+SP    2499
+RJ    1026
+MG     863
+RS     443
+PR     343
+Name: count, dtype: int64
+
+Top 5 product categories:
+top_category
+bed_bath_table     682
+furniture_decor    598
+health_beauty      551
+sports_leisure     505
+watches_gifts      479
+Name: count, dtype: int64
+
+-------------------- CLUSTER 3 --------------------
+Number of customers: 34422 (36.07% of total)
+Average total spend: $70.08
+Average order count: 1.02
+Average recency (days): 149.05
+Average order value: $69.12
+Average category diversity: 1.01
+Repeat customers: 1.6%
+Category explorers: 1.0%
+
+Top 5 states:
+customer_state
+SP    16380
+RJ     3974
+MG     3887
+PR     1768
+RS     1731
+Name: count, dtype: int64
+
+Top 5 product categories:
+top_category
+health_beauty            3442
+bed_bath_table           3224
+sports_leisure           2502
+computers_accessories    2388
+housewares               2176
+Name: count, dtype: int64
+
+-------------------- CLUSTER 4 --------------------
+Number of customers: 9970 (10.45% of total)
+Average total spend: $776.99
+Average order count: 1.07
+Average recency (days): 152.67
+Average order value: $740.27
+Average category diversity: 1.08
+Repeat customers: 6.0%
+Category explorers: 7.2%
+
+Top 5 states:
+customer_state
+SP    3748
+RJ    1287
+MG    1165
+RS     580
+PR     521
+Name: count, dtype: int64
+
+Top 5 product categories:
+top_category
+health_beauty            1113
+bed_bath_table            874
+watches_gifts             803
+furniture_decor           788
+computers_accessories     668
+Name: count, dtype: int64
